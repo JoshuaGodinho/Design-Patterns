@@ -6,7 +6,6 @@ A feature-rich **Smart Home Automation System** that empowers users to control a
 - **User Authentication & Session Management**: Manages user sessions with limited concurrent logins based on subscription levels, using Object Pool and Proxy patterns.
 - **Device Control & State Management**: Provides efficient control over devices, including state persistence for room-specific devices, leveraging the Command, State, and Memento patterns.
 - **Premium Support System**: Allows premium users to access a hierarchical support system, implemented with the Chain of Responsibility pattern.
-- **Geolocation & Mapping**: Integrates Google Maps API for real-time device tracking, reducing page load times and enhancing user experience.
 - **Messaging & Communication**: Enables efficient communication across different contact groups using Interpreter, Observer, and Iterator patterns.
 
 ## Design Patterns Implemented
